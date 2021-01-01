@@ -13,6 +13,11 @@ margin: 0 !important;
 overflow:hidden;
 	}
 
+::selection {
+    background: #C80649;
+    color: #FBFBF2;
+}
+
 /*.background-color{
 	position:absolute;
 	width:100%;
