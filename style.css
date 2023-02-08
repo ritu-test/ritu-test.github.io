@@ -4,8 +4,7 @@
 
 body{
 	       height: 100%;
-background: rgb(221,239,187) ;
-background: linear-gradient(328deg, rgba(221,239,187,1) 0%, rgba(247,238,255,1) 90%);
+
 	width: 100vw;
 color: #232b2b;
 font-size: 13px;
@@ -29,7 +28,7 @@ background: linear-gradient(328deg, rgba(221,239,187,1) 0%, rgba(247,238,255,1) 
 
 .text{
 	padding: 1.5vw 0 0 1.5vw;
-	width:450px;
+	width:70vw;
 	height: 90vh;
 			display:flex;
 		flex-direction: column;
@@ -37,9 +36,10 @@ background: linear-gradient(328deg, rgba(221,239,187,1) 0%, rgba(247,238,255,1) 
 }
 
 .sans{
-	font-family: Helvetica;
-	font-size: 1em;
-	line-height: 1.25;
+    font-family: serif;
+    font-size: 1.5em;
+    line-height: 1.25;
+    letter-spacing: 0.03em;
 }
 
 .mono{
