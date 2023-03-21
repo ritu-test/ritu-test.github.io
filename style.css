@@ -39,7 +39,7 @@ background: linear-gradient(328deg, rgba(221,239,187,1) 0%, rgba(247,238,255,1) 
     font-family: serif;
     font-size: 1.5em;
     line-height: 1.25;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.025em;
 }
 
 .mono{
